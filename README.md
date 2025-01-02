@@ -7,6 +7,8 @@ With courtesy of Breno Batista Machado for developing the application, I used th
 Walkthrough on the applicatiion via
 [link](https://medium.com/@brenobm/building-a-project-management-tool-with-asp-net-f5f40cd84a04)
 
+Note - this is still work in progress and not fully completed personal project.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
